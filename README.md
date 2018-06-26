@@ -11,6 +11,7 @@ required. For some reason, your email and password should be entered in a hardco
  The part on sending email on background is modified from the source code from
  https://stackoverflow.com/questions/2020088/sending-email-in-android-using-javamail-api-without-using-the-default-built-in-a
  and  http://pointofandroid.blogspot.com/2017/02/send-mail-in-background-send-mail.html written by pankaj gurjar.
+ 
  Thank you very much for making your codes available online :)
  
 3. This app can only be used for non-profitable personal usage. Have fun!
